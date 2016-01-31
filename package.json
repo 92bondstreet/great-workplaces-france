@@ -1,0 +1,14 @@
+{
+  "name": "great-workplaces-france",
+  "version": "1.0.0",
+  "description": "Great place to work job board",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joliscri.pt <joli.script@gmail.com> (http://joliscri.pt/)",
+  "license": "MIT",
+  "dependencies": {
+    "json2md": "^1.5.0"
+  }
+}
